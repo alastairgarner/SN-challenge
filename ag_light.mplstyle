@@ -1,0 +1,76 @@
+# https://matplotlib.org/3.1.0/tutorials/introductory/customizing.html
+
+# Grey levels used: 
+# 0.25 - Main text
+# 0.6 - Tick labels - need to test if this is good on projectors, etc.
+# 0.9 - Grids
+
+#######################
+### Figure
+
+# figure.figsize : 6.4,4.8
+figure.figsize : 6,4.5
+
+figure.subplot.left    : 0.125  ## the left side of the subplots of the figure
+figure.subplot.right   : 0.9    ## the right side of the subplots of the figure
+figure.subplot.bottom  : 0.11   ## the bottom of the subplots of the figure
+figure.subplot.top     : 0.88   ## the top of the subplots of the figure
+
+#######################
+### Axes
+
+axes.facecolor : white
+# axes.edgecolor : blue
+
+axes.labelcolor : 0.6
+
+# Remove axes border
+axes.spines.top : False
+axes.spines.right : False
+axes.spines.left : False
+axes.spines.bottom : False
+
+axes.grid : True
+axes.grid.axis : y
+
+# Margin as a proportion of axes size
+axes.xmargin : .05
+axes.ymargin : .05
+
+# Borrowed from seaborn ('deep' palette)
+axes.prop_cycle    : cycler('color', ['4c72b0', 'dd8452', '55a868', 'c44e52', '8172b3', '937860', 'da8bc3', '8c8c8c', 'ccb974', '64b5cd'])
+
+#######################
+### Ticks
+
+xtick.bottom : True
+xtick.direction : out
+xtick.color : 0.6
+
+ytick.left : False
+ytick.color : 0.6
+
+#######################
+### Grids
+
+grid.color :     0.9
+grid.linestyle : -
+grid.linewidth : 0.8
+grid.alpha :     1.0
+
+#######################
+### Lines
+
+lines.linewidth: 3
+lines.solid_capstyle : round
+
+#######################
+### Text
+
+text.color : 0.25
+
+font.size : 10
+
+font.sans-serif : Helvetica
+# font.sans-serif : Open Sans
+# font.serif : Merriweather

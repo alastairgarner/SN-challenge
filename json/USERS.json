@@ -1,0 +1,6067 @@
+[
+  {
+    "_id": {
+      "$oid": "5a2e417806d240124a6185a0"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 25.0,
+    "height": 156.2,
+    "weight": 99.3,
+    "churnedAfterSix": "NA"
+  },
+  {
+    "_id": {
+      "$oid": "5a434efac3a72a107ce35c25"
+    },
+    "goalsAspiration": "high",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 66.0,
+    "height": 154.9,
+    "weight": 60.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5a4feb9c0fb3cc7e95f244b8"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 61.0,
+    "height": 174.0,
+    "weight": 65.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5a5b956b86ef893f9f93799a"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 55.0,
+    "height": 172.7,
+    "weight": 80.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5a75a465eab9185480e42453"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 61.0,
+    "height": 162.6,
+    "weight": 98.9,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5aa6d1995d2b4437b66358f1"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 46.0,
+    "height": 198.1,
+    "weight": 91.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5acc6ac7fb798e3962d679b3"
+    },
+    "goalsAspiration": "high",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 57.0,
+    "height": 182.9,
+    "weight": 116.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ad7b7034a2e2a0628665c71"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 64.0,
+    "height": 185.4,
+    "weight": 74.389,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5af86dd57e656f2faca52e19"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 68.0,
+    "height": 170.0,
+    "weight": 65.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b12de5abfb9e15cb67db88e"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "treats",
+    "age": 39.0,
+    "height": 157.5,
+    "weight": 97.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b1ba42ff84be476e61dbaae"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 60.0,
+    "height": 167.6,
+    "weight": 83.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b1cdb1d6829f70bd49a5b25"
+    },
+    "goalsAspiration": "low",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 66.0,
+    "height": 163.0,
+    "weight": 98.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b2c82b3b7e5563baa73f214"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "supermarket",
+    "age": 32.0,
+    "height": 180.0,
+    "weight": 97.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b30d87ec1294711d8758560"
+    },
+    "goalsAspiration": "low",
+    "gender": "F",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 30.0,
+    "height": 161.3,
+    "weight": 66.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b3898d89b91643ca40491bd"
+    },
+    "goalsAspiration": "medium",
+    "gender": "M",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "other",
+    "age": 35.0,
+    "height": 170.2,
+    "weight": 60.3,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5b4345a76e616711a74c2e2c"
+    },
+    "goalsAspiration": "low",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 23.0,
+    "height": 160.0,
+    "weight": 81.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b49e640cb859111e55d97f0"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 69.0,
+    "height": 175.3,
+    "weight": 70.3,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5b4a26d3cb859111e55da96e"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 72.0,
+    "height": 185.4,
+    "weight": 120.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b531d5f1ae1fa4655bc31a0"
+    },
+    "goalsAspiration": "low",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 46.0,
+    "height": 160.0,
+    "weight": 88.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b5a46864e79ce5c5e7359a7"
+    },
+    "goalsAspiration": "high",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "information",
+    "trigger": "tired",
+    "age": 65.0,
+    "height": 155.0,
+    "weight": 88.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b6da5885c15a7565071f226"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 45.0,
+    "height": 172.70000000000002,
+    "weight": 67.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b72e01bafb74473ee3e0e21"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "supermarket",
+    "age": 29.0,
+    "height": 149.9,
+    "weight": 114.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5b8426d90bd3db4205583699"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 28.0,
+    "height": 167.6,
+    "weight": 84.4,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5bd7b9889ae22f5d4b438dec"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "treats",
+    "age": 71.0,
+    "height": 176.5,
+    "weight": 74.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5bec597afd0ba078060d0bac"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 55.0,
+    "height": 185.4,
+    "weight": 89.811,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5bf7108c5e971a5cbf4a9614"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "fitness",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 28.0,
+    "height": 170.0,
+    "weight": 87.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c45d1c639516b0931b0a9bb"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 34.0,
+    "height": 166.0,
+    "weight": 106.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c5be1cf7b10cc2c65e5413f"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "treats",
+    "age": 41.0,
+    "height": 176.0,
+    "weight": 127.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c673c3613f0173419a59797"
+    },
+    "goalsAspiration": "low",
+    "gender": "F",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 26.0,
+    "height": 149.9,
+    "weight": 78.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c691a7b321454201a55ce24"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 25.0,
+    "height": 164.0,
+    "weight": 77.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c6988b153f96067494568a1"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 63.0,
+    "height": 170.20000000000002,
+    "weight": 113.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c6b2ee035bb851dc431e3a6"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 61.0,
+    "height": 188.0,
+    "weight": 86.2,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5c6b32c8b6633818b0d42e5f"
+    },
+    "goalsAspiration": "low",
+    "gender": "F",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 66.0,
+    "height": 176.0,
+    "weight": 89.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c6ba6c1b6633818b0d43c06"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 52.0,
+    "height": 170.2,
+    "weight": 65.317,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c6cff96ba07c1225a5aea72"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 51.0,
+    "height": 159.0,
+    "weight": 68.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c701b4a180e5c084ea77a5e"
+    },
+    "goalsAspiration": "high",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "treats",
+    "age": 58.0,
+    "height": 158.8,
+    "weight": 79.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c7299957845734f05817577"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 25.0,
+    "height": 152.4,
+    "weight": 91.172,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c7c1dfd17026861841b1e8e"
+    },
+    "goalsAspiration": "high",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "information",
+    "trigger": "social",
+    "age": 63.0,
+    "height": 156.2,
+    "weight": 87.543,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c838c017bf9586ae0d848c8"
+    },
+    "goalsAspiration": "low",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 46.0,
+    "height": 170.2,
+    "weight": 74.389,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c84d3ad7bf9586ae0d8aa89"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 55.0,
+    "height": 198.1,
+    "weight": 70.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c878e67a8a7a776f4a64687"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "routine",
+    "age": 72.0,
+    "height": 182.9,
+    "weight": 81.2,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5c880c6e85a6c205921f5d20"
+    },
+    "goalsAspiration": "high",
+    "gender": "F",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 40.0,
+    "height": 167.6,
+    "weight": 84.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c88ee29af30197585b78e3a"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 65.0,
+    "height": 198.1,
+    "weight": 104.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5c9a55bd4650a131aa841f93"
+    },
+    "goalsAspiration": "medium",
+    "gender": "F",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "supermarket",
+    "age": 50.0,
+    "height": 158.8,
+    "weight": 117.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ca8f158540a036b663a34df"
+    },
+    "gender": "M",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "supermarket",
+    "age": 71.0,
+    "height": 155.0,
+    "weight": 105.0,
+    "churnedAfterSix": "NA"
+  },
+  {
+    "_id": {
+      "$oid": "5cae4be5dfe728715c174f4c"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "other",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 30.0,
+    "height": 157.5,
+    "weight": 89.0,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cb0723a065eaa0ab618e4ff"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 30.0,
+    "height": 163.8,
+    "weight": 92.5,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cb1a330266ef0116789e6ed"
+    },
+    "gender": "M",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 56.0,
+    "height": 174.0,
+    "weight": 111.1,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cb4302dcf42eb64cb9db476"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 31.0,
+    "height": 178.0,
+    "weight": 103.9,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cb49a6649515b28201e77a1"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 50.0,
+    "height": 185.4,
+    "weight": 69.9,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cb5942749515b28201ef5e7"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "food",
+    "trigger": "emotions",
+    "age": 53.0,
+    "height": 180.0,
+    "weight": 78.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cb5ee062e6add6c6b187f61"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "information",
+    "trigger": "tired",
+    "age": 69.0,
+    "height": 156.2,
+    "weight": 84.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cb6ffa39e91b84fbac519aa"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 57.0,
+    "height": 172.0,
+    "weight": 67.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cb736f4f0a72f512708f9ca"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 27.0,
+    "height": 160.0,
+    "weight": 70.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cb7953be9678d5013a3b921"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 63.0,
+    "height": 171.0,
+    "weight": 83.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cba40489203684bd4c4e04f"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "other",
+    "age": 45.0,
+    "height": 155.0,
+    "weight": 98.4,
+    "churnedAfterSix": "NA"
+  },
+  {
+    "_id": {
+      "$oid": "5cbad0992d62381166a119d9"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 64.0,
+    "height": 152.4,
+    "weight": 139.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cbad8f156fd1179d84536ba"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 28.0,
+    "height": 164.0,
+    "weight": 106.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cbc31e194b8d6115731aed9"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 32.0,
+    "height": 170.20000000000002,
+    "weight": 63.0,
+    "churnedAfterSix": "NA"
+  },
+  {
+    "_id": {
+      "$oid": "5cbc5d0756fd1179d845bf5e"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "emotions",
+    "age": 72.0,
+    "height": 172.7,
+    "weight": 80.3,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cbd79e7a9c3d011786b4936"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 25.0,
+    "height": 182.9,
+    "weight": 86.183,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cbdd1459203684bd4c5960a"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 55.0,
+    "height": 176.0,
+    "weight": 88.904,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cbdf5854a95711131f8fe65"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "emotions",
+    "age": 45.0,
+    "height": 165.0,
+    "weight": 78.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cbdf9bf4a95711131f900bb"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "supermarket",
+    "age": 37.0,
+    "height": 188.0,
+    "weight": 84.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cbea7fd4a95711131f93b7d"
+    },
+    "gender": "F",
+    "motivation": "health",
+    "trigger": "tired",
+    "age": 37.0,
+    "height": 164.0,
+    "weight": 122.0,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cbeb67b9203684bd4c5f9a7"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 43.0,
+    "height": 172.0,
+    "weight": 89.358,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cbf8c2661ca9312c6529936"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 62.0,
+    "height": 180.0,
+    "weight": 63.5,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cc1554f765c231664bee972"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "emotions",
+    "age": 32.0,
+    "height": 175.3,
+    "weight": 127.2,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cc3ff11aa2be51676641ea5"
+    },
+    "gender": "F",
+    "motivation": "health",
+    "trigger": "other",
+    "age": 72.0,
+    "height": 157.5,
+    "weight": 81.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cc5a385eecd84163f8c01c9"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 47.0,
+    "height": 170.20000000000002,
+    "weight": 99.0,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cc71ab9e84362165634f440"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 33.0,
+    "height": 165.1,
+    "weight": 117.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cc87d70a4cedc162e6da5e7"
+    },
+    "gender": "M",
+    "motivation": "health",
+    "trigger": "other",
+    "age": 33.0,
+    "height": 175.3,
+    "weight": 93.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cc929eba4cedc162e6df3c2"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 61.0,
+    "height": 175.0,
+    "weight": 90.0,
+    "churnedAfterSix": "NA"
+  },
+  {
+    "_id": {
+      "$oid": "5cc9c9e4819c3516b2eaf96d"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "treats",
+    "age": 23.0,
+    "height": 174.0,
+    "weight": 93.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cc9ec812e1edc1634c97c71"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 49.0,
+    "height": 170.2,
+    "weight": 71.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cca05b1264c7a165c8b187e"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 62.0,
+    "height": 185.4,
+    "weight": 70.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccae2b532134c16a6b2348e"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 62.0,
+    "height": 166.0,
+    "weight": 121.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccb13e4a6086716b75272e1"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 23.0,
+    "height": 158.8,
+    "weight": 65.0,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ccb208cb683bb12d5475cd8"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 54.0,
+    "height": 159.0,
+    "weight": 78.9,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ccb3a4dc256ca1640cf89b4"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 53.0,
+    "height": 177.8,
+    "weight": 84.4,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ccb4e36be196416942f66fb"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 37.0,
+    "height": 175.3,
+    "weight": 83.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccb523ac256ca1640cf9dab"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 33.0,
+    "height": 152.0,
+    "weight": 63.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccb54839fef3c16cf086163"
+    },
+    "gender": "M",
+    "goalsAspiration": "low",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 33.0,
+    "height": 163.0,
+    "weight": 71.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccbd976be196416942f8f67"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 30.0,
+    "height": 149.9,
+    "weight": 100.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccc36fa5f769016c3f6c300"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 49.0,
+    "height": 155.0,
+    "weight": 62.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccc46e04da6ab163bd62841"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 54.0,
+    "height": 162.0,
+    "weight": 66.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccc81ec71e1f115ef0aa75c"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 35.0,
+    "height": 157.5,
+    "weight": 89.811,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cccaf835f769016c3f70bd0"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 23.0,
+    "height": 175.0,
+    "weight": 92.0,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ccd57475e79f41664524120"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 25.0,
+    "height": 176.5,
+    "weight": 60.3,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ccd5b319eddbe163624ebc0"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 43.0,
+    "height": 164.0,
+    "weight": 91.172,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ccd5b615e79f4166452442f"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 61.0,
+    "height": 165.0,
+    "weight": 100.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccdceeb5e79f41664527cdf"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 53.0,
+    "height": 165.0,
+    "weight": 89.358,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccde5db71e1f115ef0b4da6"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 41.0,
+    "height": 156.2,
+    "weight": 94.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cce2d2c9eddbe16362545fb"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "other",
+    "age": 63.0,
+    "height": 156.2,
+    "weight": 116.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cce8e3f71e1f115ef0b75ad"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "routine",
+    "age": 68.0,
+    "height": 175.0,
+    "weight": 88.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccf194d9eddbe1636259177"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 48.0,
+    "height": 160.0,
+    "weight": 86.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ccff3b79eddbe163625e374"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 29.0,
+    "height": 182.9,
+    "weight": 58.1,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ccff97671e1f115ef0c08a1"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 44.0,
+    "height": 180.3,
+    "weight": 127.0,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cd00a3e5e79f41664534bba"
+    },
+    "gender": "F",
+    "motivation": "control",
+    "trigger": "stress",
+    "age": 37.0,
+    "height": 175.0,
+    "weight": 101.0,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cd00e5171e1f115ef0c1804"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "other",
+    "challenge": "other",
+    "trigger": "social",
+    "age": 42.0,
+    "height": 182.9,
+    "weight": 97.1,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cd0258e3717b5163f57ae65"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 43.0,
+    "height": 174.0,
+    "weight": 112.49,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd0519d3717b5163f57c5be"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "fitness",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 64.0,
+    "height": 170.20000000000002,
+    "weight": 59.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd064a771e1f115ef0c45a9"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "other",
+    "age": 40.0,
+    "height": 198.1,
+    "weight": 124.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd065f871e1f115ef0c46cd"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 35.0,
+    "height": 185.4,
+    "weight": 121.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd086c73717b5163f57e7a0"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 51.0,
+    "height": 171.0,
+    "weight": 181.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd08c739eddbe16362646f4"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "other",
+    "age": 44.0,
+    "height": 152.0,
+    "weight": 91.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd0a9a171e1f115ef0c79b0"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 72.0,
+    "height": 157.5,
+    "weight": 143.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd1679f3857af1656a27fe3"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 24.0,
+    "height": 180.0,
+    "weight": 106.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd1cb1077fc67163594c6a3"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "supermarket",
+    "age": 69.0,
+    "height": 171.0,
+    "weight": 82.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd1cca496bab61656ea8e2d"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 46.0,
+    "height": 156.2,
+    "weight": 95.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd1f49996bab61656eab080"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 61.0,
+    "height": 165.0,
+    "weight": 89.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd2e57a89724c1732e98dcf"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 26.0,
+    "height": 163.0,
+    "weight": 116.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd2ea8289724c1732e99059"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 68.0,
+    "height": 159.0,
+    "weight": 80.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd304b798e6e016348cf00e"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 45.0,
+    "height": 157.5,
+    "weight": 97.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd332bd873b321653ce8303"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 24.0,
+    "height": 158.8,
+    "weight": 63.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd33a0d9681aa16517c488d"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 46.0,
+    "height": 176.0,
+    "weight": 90.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd34d0398e6e016348d2a61"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 71.0,
+    "height": 188.0,
+    "weight": 85.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd3c36798e6e016348d4429"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "other",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 53.0,
+    "height": 154.9,
+    "weight": 62.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd3ced698e6e016348d50e2"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 28.0,
+    "height": 174.0,
+    "weight": 115.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd40ee1ef72d81356b73b4b"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 43.0,
+    "height": 177.8,
+    "weight": 101.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd4192a391a071311c2b1b4"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 35.0,
+    "height": 165.0,
+    "weight": 75.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd4399839e1c012c2be84df"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 25.0,
+    "height": 163.0,
+    "weight": 139.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd4432b391a071311c2c632"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 62.0,
+    "height": 180.0,
+    "weight": 75.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd456c1391a071311c2d162"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 54.0,
+    "height": 163.8,
+    "weight": 131.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd45be61ee242131cb920f5"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 57.0,
+    "height": 182.9,
+    "weight": 90.719,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd462891ee242131cb925e2"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 69.0,
+    "height": 177.8,
+    "weight": 99.79,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd4894e2925a912cbdd2c2f"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 29.0,
+    "height": 158.8,
+    "weight": 63.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd48a101ee242131cb94553"
+    },
+    "gender": "F",
+    "motivation": "health",
+    "trigger": "other",
+    "age": 24.0,
+    "height": 173.0,
+    "weight": 112.49,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd499ca98495812a528fc31"
+    },
+    "gender": "F",
+    "motivation": "fitness",
+    "trigger": "other",
+    "age": 55.0,
+    "height": 172.70000000000002,
+    "weight": 127.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd49e9898495812a528ffea"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 58.0,
+    "height": 152.4,
+    "weight": 122.5,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cd4fe641ee242131cb9608c"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "emotions",
+    "age": 71.0,
+    "height": 180.3,
+    "weight": 104.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5178b1ee242131cb96f2e"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 23.0,
+    "height": 157.5,
+    "weight": 114.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd51a0c1ee242131cb9727a"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 51.0,
+    "height": 178.0,
+    "weight": 87.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd51c032925a912cbdd5a8f"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 36.0,
+    "height": 152.4,
+    "weight": 90.719,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd520832925a912cbdd6061"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 65.0,
+    "height": 174.0,
+    "weight": 104.8,
+    "churnedAfterSix": "NA"
+  },
+  {
+    "_id": {
+      "$oid": "5cd5260098495812a5292cd9"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 23.0,
+    "height": 166.0,
+    "weight": 113.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd537202925a912cbdd7748"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "information",
+    "trigger": "tired",
+    "age": 32.0,
+    "height": 185.4,
+    "weight": 95.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd540332925a912cbdd7ec6"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 28.0,
+    "height": 152.0,
+    "weight": 139.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5515c98495812a529518c"
+    },
+    "gender": "M",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "supermarket",
+    "age": 35.0,
+    "height": 188.0,
+    "weight": 117.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd554401ee242131cb9acf5"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 65.0,
+    "height": 178.0,
+    "weight": 70.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd560161ee242131cb9b212"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 63.0,
+    "height": 171.0,
+    "weight": 93.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd566ee98495812a5295d64"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 68.0,
+    "height": 180.0,
+    "weight": 99.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd575e82925a912cbdd99a6"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 48.0,
+    "height": 171.0,
+    "weight": 89.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5774f1ee242131cb9be07"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 44.0,
+    "height": 162.0,
+    "weight": 97.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd58be42925a912cbdda386"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "emotions",
+    "age": 48.0,
+    "height": 173.0,
+    "weight": 68.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd59c2e98495812a52979b5"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "other",
+    "age": 48.0,
+    "height": 198.1,
+    "weight": 88.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd59e4298495812a5297bdc"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 51.0,
+    "height": 153.0,
+    "weight": 109.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5a62a98495812a52980e7"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "treats",
+    "age": 51.0,
+    "height": 154.9,
+    "weight": 68.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5a75198495812a52981f7"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 45.0,
+    "height": 152.4,
+    "weight": 65.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5b1b32925a912cbddbb9d"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 36.0,
+    "height": 188.0,
+    "weight": 116.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5bed62925a912cbddc62c"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 35.0,
+    "height": 171.5,
+    "weight": 87.543,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5c7f698495812a529993b"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "other",
+    "challenge": "other",
+    "trigger": "stress",
+    "age": 73.0,
+    "height": 160.0,
+    "weight": 74.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5c80c98495812a5299986"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 36.0,
+    "height": 170.0,
+    "weight": 70.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5c8481ee242131cb9f1ce"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 34.0,
+    "height": 161.3,
+    "weight": 65.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5d4731ee242131cb9f99d"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "other",
+    "trigger": "social",
+    "age": 24.0,
+    "height": 198.1,
+    "weight": 72.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5dc171ee242131cb9fe4c"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 51.0,
+    "height": 163.0,
+    "weight": 89.811,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5e45b2925a912cbdde069"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "other",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 26.0,
+    "height": 175.0,
+    "weight": 113.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5e47d1ee242131cba0321"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 47.0,
+    "height": 163.0,
+    "weight": 104.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5e8fb1ee242131cba05bf"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 53.0,
+    "height": 165.1,
+    "weight": 136.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5ea0298495812a529b0c2"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 40.0,
+    "height": 188.0,
+    "weight": 99.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5f7b498495812a529ba64"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 65.0,
+    "height": 158.8,
+    "weight": 81.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5f8111ee242131cba0eb4"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "other",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 34.0,
+    "height": 152.4,
+    "weight": 107.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd5fd2598495812a529bd04"
+    },
+    "gender": "F",
+    "motivation": "control",
+    "trigger": "emotions",
+    "age": 54.0,
+    "height": 198.1,
+    "weight": 79.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6018f2925a912cbddf112"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "emotions",
+    "age": 53.0,
+    "height": 170.20000000000002,
+    "weight": 93.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd64ee298495812a529c3b0"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 59.0,
+    "height": 152.4,
+    "weight": 86.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd651d52925a912cbddf6bf"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 49.0,
+    "height": 170.0,
+    "weight": 97.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6688a98495812a529cbea"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 51.0,
+    "height": 162.6,
+    "weight": 85.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd67c362925a912cbde12f5"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 46.0,
+    "height": 154.9,
+    "weight": 78.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd67c8b98495812a529e1d3"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "emotions",
+    "age": 57.0,
+    "height": 156.2,
+    "weight": 81.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd67d4f1ee242131cba3564"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 67.0,
+    "height": 163.0,
+    "weight": 70.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd67dec98495812a529e461"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 64.0,
+    "height": 161.3,
+    "weight": 113.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd67e3b2925a912cbde160c"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 33.0,
+    "height": 176.5,
+    "weight": 89.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd67eff2925a912cbde1734"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "emotions",
+    "age": 23.0,
+    "height": 198.1,
+    "weight": 59.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd67f252925a912cbde1776"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "treats",
+    "age": 36.0,
+    "height": 161.3,
+    "weight": 91.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd684141ee242131cba3f79"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 42.0,
+    "height": 171.5,
+    "weight": 94.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6896b638c3d12c1f16a7f"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "routine",
+    "age": 52.0,
+    "height": 180.3,
+    "weight": 131.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6898832d541137135585f"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 64.0,
+    "height": 165.0,
+    "weight": 87.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd68df332d5411371355c86"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "other",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 71.0,
+    "height": 155.0,
+    "weight": 121.109,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd69b69fb622f12c5a74008"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 28.0,
+    "height": 174.0,
+    "weight": 71.5,
+    "churnedAfterSix": "NA"
+  },
+  {
+    "_id": {
+      "$oid": "5cd6a8cf083ee512c026bb38"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 24.0,
+    "height": 177.8,
+    "weight": 87.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6aca65d6be5136e944ba7"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 40.0,
+    "height": 176.5,
+    "weight": 108.0,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cd6af66083ee512c026bee1"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 41.0,
+    "height": 165.0,
+    "weight": 97.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6afddfb622f12c5a74ea5"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 55.0,
+    "height": 166.0,
+    "weight": 77.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6b0995d6be5136e944dcd"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 32.0,
+    "height": 159.0,
+    "weight": 107.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6b7ce083ee512c026c37d"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 36.0,
+    "height": 152.4,
+    "weight": 70.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6b8b0fb622f12c5a753ec"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 41.0,
+    "height": 175.3,
+    "weight": 115.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6c4785d6be5136e9458f2"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 39.0,
+    "height": 170.20000000000002,
+    "weight": 120.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6c7d75d6be5136e945a7a"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 69.0,
+    "height": 172.70000000000002,
+    "weight": 103.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6d0d29d572613188d3b20"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 29.0,
+    "height": 162.6,
+    "weight": 71.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6d0ec67aaad12caf4b853"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "supermarket",
+    "age": 23.0,
+    "height": 161.3,
+    "weight": 103.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6d414f1fb4812e17a8973"
+    },
+    "gender": "M",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 72.0,
+    "height": 170.2,
+    "weight": 89.358,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6d98b9d572613188d3f9f"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "stress",
+    "age": 67.0,
+    "height": 185.4,
+    "weight": 63.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6e92cf1fb4812e17a9447"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 67.0,
+    "height": 162.6,
+    "weight": 81.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6e9e267aaad12caf4c4ff"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 55.0,
+    "height": 188.0,
+    "weight": 99.79,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6ea72f1fb4812e17a951d"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 38.0,
+    "height": 153.0,
+    "weight": 87.5,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cd6f39867aaad12caf4c9bb"
+    },
+    "gender": "M",
+    "motivation": "health",
+    "trigger": "tired",
+    "age": 31.0,
+    "height": 152.0,
+    "weight": 87.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6fc5567aaad12caf4cdfe"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 47.0,
+    "height": 172.70000000000002,
+    "weight": 62.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd6fd38f1fb4812e17a9e4c"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 41.0,
+    "height": 178.0,
+    "weight": 93.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd705a0f1fb4812e17aa464"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 67.0,
+    "height": 156.2,
+    "weight": 75.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd70bc5f1fb4812e17aa850"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 26.0,
+    "height": 180.0,
+    "weight": 112.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd70bf99d572613188d5a22"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "supermarket",
+    "age": 48.0,
+    "height": 162.0,
+    "weight": 85.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd71189f1fb4812e17aac1b"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 33.0,
+    "height": 182.9,
+    "weight": 100.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd716c4f1fb4812e17aaece"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "food",
+    "trigger": "emotions",
+    "age": 35.0,
+    "height": 172.7,
+    "weight": 137.892,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7172f9d572613188d6097"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 71.0,
+    "height": 182.9,
+    "weight": 110.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd717daf1fb4812e17aaff6"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "fitness",
+    "challenge": "food",
+    "trigger": "emotions",
+    "age": 67.0,
+    "height": 153.0,
+    "weight": 78.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7187200a7ee12e1094051"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 60.0,
+    "height": 173.0,
+    "weight": 88.904,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7333600a7ee12e1094c0c"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 37.0,
+    "height": 153.0,
+    "weight": 103.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7401cf1fb4812e17ac3fb"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 52.0,
+    "height": 198.1,
+    "weight": 87.543,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7621cf1fb4812e17acdff"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 64.0,
+    "height": 178.0,
+    "weight": 76.204,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7bc6f9d572613188d85a9"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 33.0,
+    "height": 152.0,
+    "weight": 99.79,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7cf339d572613188d91b1"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 40.0,
+    "height": 177.8,
+    "weight": 123.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7cf6f9d572613188d9207"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 40.0,
+    "height": 156.2,
+    "weight": 94.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7d48acd866012ed731666"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "treats",
+    "age": 24.0,
+    "height": 167.6,
+    "weight": 131.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7db50cd866012ed731ba9"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 61.0,
+    "height": 176.0,
+    "weight": 75.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7f14610f57a130a5b5005"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 66.0,
+    "height": 162.0,
+    "weight": 90.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7f3db3d70f9130db85904"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 29.0,
+    "height": 180.3,
+    "weight": 113.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7f5903d70f9130db859ff"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "other",
+    "trigger": "stress",
+    "age": 59.0,
+    "height": 185.4,
+    "weight": 80.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd7fe7a10f57a130a5b5821"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 47.0,
+    "height": 178.0,
+    "weight": 108.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd80e1c3d70f9130db8639f"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "supermarket",
+    "age": 56.0,
+    "height": 165.0,
+    "weight": 86.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd817ba10f57a130a5b625b"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 60.0,
+    "height": 158.8,
+    "weight": 98.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd8227210f57a130a5b66bf"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "treats",
+    "age": 61.0,
+    "height": 161.3,
+    "weight": 103.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd8303ef2f52212d09483e6"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 44.0,
+    "height": 156.2,
+    "weight": 120.656,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd841817f5ae812d8954305"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "routine",
+    "age": 73.0,
+    "height": 153.0,
+    "weight": 101.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd857d38750b31341740a6d"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 23.0,
+    "height": 163.8,
+    "weight": 123.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd858d4f2f52212d0949861"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 54.0,
+    "height": 163.0,
+    "weight": 128.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd8725df2f52212d094a7ed"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 38.0,
+    "height": 198.1,
+    "weight": 78.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd879c68750b31341741e71"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 65.0,
+    "height": 182.9,
+    "weight": 79.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd87b758750b31341741ff6"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 73.0,
+    "height": 185.4,
+    "weight": 71.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd88897f2f52212d094b570"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "other",
+    "age": 40.0,
+    "height": 159.0,
+    "weight": 106.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd891627f5ae812d8956f58"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 53.0,
+    "height": 171.0,
+    "weight": 111.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd89558f2f52212d094bd8e"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 31.0,
+    "height": 173.0,
+    "weight": 103.419,
+    "churnedAfterSix": "NA"
+  },
+  {
+    "_id": {
+      "$oid": "5cd93357f2f52212d09501ba"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 36.0,
+    "height": 182.9,
+    "weight": 104.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd935e58750b3134174703f"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 57.0,
+    "height": 178.0,
+    "weight": 79.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd93b263ce21112c1de6b15"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "other",
+    "age": 59.0,
+    "height": 152.4,
+    "weight": 71.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd93ee932795213656ae06a"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 47.0,
+    "height": 180.3,
+    "weight": 63.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd94a613ce21112c1de7586"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 60.0,
+    "height": 156.2,
+    "weight": 57.606,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd960077d11d312b9853027"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 34.0,
+    "height": 158.8,
+    "weight": 131.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd966357d11d312b98534b8"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 61.0,
+    "height": 171.5,
+    "weight": 99.79,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9675b32795213656afdcd"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 67.0,
+    "height": 170.0,
+    "weight": 131.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd974989c94d712cfc2b1c4"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 66.0,
+    "height": 172.0,
+    "weight": 57.606,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd976930b932012b968558e"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 72.0,
+    "height": 173.0,
+    "weight": 57.0,
+    "churnedAfterSix": "NA"
+  },
+  {
+    "_id": {
+      "$oid": "5cd978fa4d01d612d71d09eb"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 36.0,
+    "height": 185.4,
+    "weight": 131.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd98699dd03d21319bf3332"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 67.0,
+    "height": 180.3,
+    "weight": 92.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd98aafdd03d21319bf35c8"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "other",
+    "age": 68.0,
+    "height": 163.8,
+    "weight": 83.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd990850b932012b9686703"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 29.0,
+    "height": 175.0,
+    "weight": 106.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd991250b932012b96867bc"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 52.0,
+    "height": 165.1,
+    "weight": 92.533,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd998e94d01d612d71d2075"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "other",
+    "trigger": "social",
+    "age": 28.0,
+    "height": 155.0,
+    "weight": 83.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd99a60dd03d21319bf4398"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "emotions",
+    "age": 28.0,
+    "height": 170.20000000000002,
+    "weight": 99.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9a2d74d01d612d71d2a0e"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 24.0,
+    "height": 163.8,
+    "weight": 122.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9ad740b932012b9688153"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 24.0,
+    "height": 158.8,
+    "weight": 82.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9bb500b932012b9688f4c"
+    },
+    "gender": "F",
+    "motivation": "control",
+    "trigger": "other",
+    "age": 30.0,
+    "height": 155.0,
+    "weight": 77.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9bc4d4d01d612d71d418f"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 28.0,
+    "height": 175.0,
+    "weight": 127.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9bcbb0b932012b96890b1"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 34.0,
+    "height": 188.0,
+    "weight": 62.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9c94cdd03d21319bf70c7"
+    },
+    "gender": "F",
+    "motivation": "health",
+    "trigger": "emotions",
+    "age": 43.0,
+    "height": 162.0,
+    "weight": 74.389,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9c96bdd03d21319bf7126"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 62.0,
+    "height": 177.8,
+    "weight": 107.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9ca4cdd03d21319bf7211"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "fitness",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 71.0,
+    "height": 182.9,
+    "weight": 75.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9ccb3dd03d21319bf748e"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 55.0,
+    "height": 157.5,
+    "weight": 93.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9d9954d01d612d71d6023"
+    },
+    "gender": "F",
+    "motivation": "health",
+    "trigger": "stress",
+    "age": 65.0,
+    "height": 163.0,
+    "weight": 87.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9db37dd03d21319bf82f2"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 26.0,
+    "height": 162.0,
+    "weight": 122.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9dfec0b932012b968b570"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "other",
+    "age": 48.0,
+    "height": 158.8,
+    "weight": 87.543,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9e2d1dd03d21319bf8974"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 37.0,
+    "height": 158.8,
+    "weight": 58.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd9f6c94d01d612d71d755a"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 32.0,
+    "height": 175.0,
+    "weight": 73.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cda20590b932012b968c5a4"
+    },
+    "gender": "F",
+    "motivation": "health",
+    "trigger": "emotions",
+    "age": 38.0,
+    "height": 171.5,
+    "weight": 93.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cda531add03d21319bf9c2c"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "routine",
+    "age": 48.0,
+    "height": 170.0,
+    "weight": 84.368,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cda56ea4d01d612d71d8226"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 31.0,
+    "height": 160.0,
+    "weight": 73.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cda5f200b932012b968d828"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 50.0,
+    "height": 152.4,
+    "weight": 104.326,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cda74ec0b932012b968efeb"
+    },
+    "gender": "F",
+    "motivation": "fitness",
+    "trigger": "other",
+    "age": 58.0,
+    "height": 158.8,
+    "weight": 86.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cda790ddd03d21319bfc1cf"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 23.0,
+    "height": 162.0,
+    "weight": 128.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cda7b70dd03d21319bfc3da"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 57.0,
+    "height": 172.0,
+    "weight": 66.678,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdaa8ccc7d6e112dd5db332"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 27.0,
+    "height": 180.3,
+    "weight": 78.472,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdab9dbc7d6e112dd5dbda0"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 63.0,
+    "height": 156.2,
+    "weight": 88.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdacf684289a212aea4672e"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "emotions",
+    "age": 62.0,
+    "height": 160.0,
+    "weight": 89.358,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdae4cec7662312f47ffa70"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "fitness",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 30.0,
+    "height": 172.0,
+    "weight": 127.0,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cdaef974289a212aea47a66"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 47.0,
+    "height": 173.0,
+    "weight": 82.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdaf9774289a212aea48231"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 37.0,
+    "height": 157.5,
+    "weight": 81.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdafcc3c7662312f4800c60"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "information",
+    "trigger": "social",
+    "age": 63.0,
+    "height": 155.0,
+    "weight": 75.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdaffe4c7662312f4800f66"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 59.0,
+    "height": 159.0,
+    "weight": 77.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdb016991042e13255918c4"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 45.0,
+    "height": 158.8,
+    "weight": 89.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdb109fc7662312f4801df2"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 66.0,
+    "height": 173.0,
+    "weight": 90.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdb13f04289a212aea497ee"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 28.0,
+    "height": 180.0,
+    "weight": 78.472,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdb302f3d566612e64d4b07"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 50.0,
+    "height": 153.0,
+    "weight": 71.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdb314c5eca42131a40fd91"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "emotions",
+    "age": 62.0,
+    "height": 157.5,
+    "weight": 79.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdb32b63d566612e64d4d5d"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 54.0,
+    "height": 158.8,
+    "weight": 72.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdb35179d703312e1c27460"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 35.0,
+    "height": 170.0,
+    "weight": 73.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdb377b5eca42131a4101f6"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 24.0,
+    "height": 176.0,
+    "weight": 122.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdbb4049d703312e1c295dc"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 28.0,
+    "height": 173.0,
+    "weight": 97.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdbcaad9d703312e1c2ac6a"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 68.0,
+    "height": 171.5,
+    "weight": 76.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdbcab15eca42131a413815"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 26.0,
+    "height": 172.0,
+    "weight": 121.109,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdbdd253d566612e64d945a"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 62.0,
+    "height": 174.0,
+    "weight": 94.801,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdbedb4c2e4d713358c6736"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 73.0,
+    "height": 162.0,
+    "weight": 153.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc022ba8ca0412fae6302f"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "food",
+    "trigger": "emotions",
+    "age": 73.0,
+    "height": 180.0,
+    "weight": 113.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc126aa8ca0412fae6374a"
+    },
+    "gender": "M",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 43.0,
+    "height": 162.6,
+    "weight": 117.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc1616802bda12dc62a494"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "information",
+    "trigger": "stress",
+    "age": 33.0,
+    "height": 166.0,
+    "weight": 88.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc2929b911571300b0c455"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "other",
+    "age": 60.0,
+    "height": 172.70000000000002,
+    "weight": 92.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc3f046917a812f4d95d83"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 26.0,
+    "height": 152.4,
+    "weight": 99.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc416f6917a812f4d95f5e"
+    },
+    "gender": "M",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 47.0,
+    "height": 171.0,
+    "weight": 98.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc543bdae2a5136b4c0b6c"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "food",
+    "trigger": "emotions",
+    "age": 48.0,
+    "height": 165.0,
+    "weight": 72.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc58449b506012d23a935c"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 29.0,
+    "height": 162.0,
+    "weight": 139.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc5cbadae2a5136b4c11fe"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 49.0,
+    "height": 172.7,
+    "weight": 90.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc5d18dae2a5136b4c1251"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 34.0,
+    "height": 167.6,
+    "weight": 59.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc64fcdae2a5136b4c180f"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 50.0,
+    "height": 182.9,
+    "weight": 76.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc655edae2a5136b4c1872"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 25.0,
+    "height": 188.0,
+    "weight": 91.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc6786dae2a5136b4c19db"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 61.0,
+    "height": 149.9,
+    "weight": 92.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc73289b506012d23aa892"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 51.0,
+    "height": 180.3,
+    "weight": 112.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdc7b12dae2a5136b4c2b63"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 45.0,
+    "height": 162.6,
+    "weight": 90.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdd0c717970de12ec0def06"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "emotions",
+    "age": 33.0,
+    "height": 162.6,
+    "weight": 110.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdd0f4a88b8d113293e58b2"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 39.0,
+    "height": 154.9,
+    "weight": 114.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdd1c790107c013991ea838"
+    },
+    "gender": "F",
+    "motivation": "control",
+    "trigger": "emotions",
+    "age": 59.0,
+    "height": 156.2,
+    "weight": 116.12,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdd2c992aa10f12e24e30b8"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 51.0,
+    "height": 159.0,
+    "weight": 72.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdd68873b5f5312a974c4ed"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 23.0,
+    "height": 185.4,
+    "weight": 107.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdd86fb80ed661322ce8b70"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 23.0,
+    "height": 164.0,
+    "weight": 108.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cddc3c062135a12c62de909"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 27.0,
+    "height": 172.7,
+    "weight": 80.74,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cddc46eaa307213050bd37c"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 65.0,
+    "height": 175.0,
+    "weight": 70.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cde5f88aa307213050c0ba4"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "supermarket",
+    "age": 55.0,
+    "height": 180.3,
+    "weight": 127.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cde6ca9c3c1bd12b5d2ce56"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "emotions",
+    "age": 51.0,
+    "height": 162.0,
+    "weight": 120.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cde8e31c3c1bd12b5d2e761"
+    },
+    "gender": "M",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 73.0,
+    "height": 162.6,
+    "weight": 74.389,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cde8e9562135a12c62e4a06"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "routine",
+    "age": 49.0,
+    "height": 185.4,
+    "weight": 101.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cde913107549f12ad6a504d"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 58.0,
+    "height": 161.3,
+    "weight": 84.368,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cde9a5874f37b12be90530e"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 66.0,
+    "height": 171.5,
+    "weight": 121.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cde9fc012ad9c12c79dabf7"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 61.0,
+    "height": 163.8,
+    "weight": 71.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdeaa8d74f37b12be905e4e"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 35.0,
+    "height": 162.0,
+    "weight": 97.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdead1a07549f12ad6a664a"
+    },
+    "gender": "F",
+    "motivation": "control",
+    "trigger": "stress",
+    "age": 68.0,
+    "height": 171.0,
+    "weight": 78.925,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdeb3ea12ad9c12c79dba45"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 62.0,
+    "height": 175.0,
+    "weight": 123.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdeb50912ad9c12c79dbb12"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 32.0,
+    "height": 156.2,
+    "weight": 104.326,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdeca4c07549f12ad6a76dc"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 59.0,
+    "height": 158.8,
+    "weight": 123.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdece3d04300412b2ee7a23"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 60.0,
+    "height": 172.0,
+    "weight": 124.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdecf9342602312b29fd464"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 37.0,
+    "height": 163.8,
+    "weight": 86.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdee11e42602312b29fe187"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "other",
+    "trigger": "social",
+    "age": 65.0,
+    "height": 177.8,
+    "weight": 90.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdeeb15ddbef012a05db326"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 29.0,
+    "height": 178.0,
+    "weight": 86.183,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdf0970134d7a12be1a13d7"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 36.0,
+    "height": 178.0,
+    "weight": 90.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdf0ba5134d7a12be1a1525"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 36.0,
+    "height": 175.0,
+    "weight": 96.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdf14ccddbef012a05dcdf9"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 23.0,
+    "height": 172.0,
+    "weight": 93.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdf1ac68ff3041311083b05"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "other",
+    "trigger": "emotions",
+    "age": 49.0,
+    "height": 180.0,
+    "weight": 90.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdf26298ff3041311084344"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 45.0,
+    "height": 175.0,
+    "weight": 93.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdf38018ff3041311084d3c"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "information",
+    "trigger": "social",
+    "age": 27.0,
+    "height": 163.8,
+    "weight": 79.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdf9d0a134d7a12be1a3e2c"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 49.0,
+    "height": 165.1,
+    "weight": 125.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfa34d134d7a12be1a4239"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 27.0,
+    "height": 158.8,
+    "weight": 76.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfa762ddbef012a05df550"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 51.0,
+    "height": 163.0,
+    "weight": 92.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfaf25134d7a12be1a4ed4"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 24.0,
+    "height": 163.0,
+    "weight": 80.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfaf908ff30413110869b8"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 47.0,
+    "height": 165.1,
+    "weight": 73.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfb516ddbef012a05e058a"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "emotions",
+    "age": 56.0,
+    "height": 180.0,
+    "weight": 94.347,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfb94e8ff30413110878a7"
+    },
+    "gender": "F",
+    "motivation": "control",
+    "trigger": "emotions",
+    "age": 55.0,
+    "height": 163.8,
+    "weight": 143.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfb9fa134d7a12be1a5e92"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 35.0,
+    "height": 165.1,
+    "weight": 115.0,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5cdfba24ddbef012a05e0eea"
+    },
+    "gender": "F",
+    "motivation": "health",
+    "trigger": "emotions",
+    "age": 48.0,
+    "height": 172.7,
+    "weight": 77.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfbad4ddbef012a05e102b"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 48.0,
+    "height": 176.5,
+    "weight": 83.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfc2468ff3041311088507"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 45.0,
+    "height": 170.20000000000002,
+    "weight": 101.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfc640134d7a12be1a6edb"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 71.0,
+    "height": 165.1,
+    "weight": 122.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfca0d134d7a12be1a7456"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 42.0,
+    "height": 159.0,
+    "weight": 105.687,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfcac58ff3041311089120"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 39.0,
+    "height": 177.8,
+    "weight": 83.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfcec7ddbef012a05e29f0"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 69.0,
+    "height": 161.3,
+    "weight": 57.606,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfd19addbef012a05e2dae"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "emotions",
+    "age": 51.0,
+    "height": 172.7,
+    "weight": 70.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfd4a88ff3041311089b3d"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 60.0,
+    "height": 180.3,
+    "weight": 104.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfd579134d7a12be1a80fd"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "fitness",
+    "challenge": "information",
+    "trigger": "stress",
+    "age": 24.0,
+    "height": 176.5,
+    "weight": 105.687,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfe6768ff304131108a760"
+    },
+    "gender": "F",
+    "motivation": "fitness",
+    "trigger": "other",
+    "age": 37.0,
+    "height": 185.4,
+    "weight": 88.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdfece8134d7a12be1a915c"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "food",
+    "trigger": "emotions",
+    "age": 71.0,
+    "height": 171.0,
+    "weight": 121.109,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdff32fddbef012a05e460a"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 55.0,
+    "height": 171.5,
+    "weight": 97.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5cdff90fddbef012a05e4a40"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 68.0,
+    "height": 158.8,
+    "weight": 105.687,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce0045d8ff304131108b952"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 31.0,
+    "height": 177.8,
+    "weight": 112.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce00a04134d7a12be1aa17d"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 41.0,
+    "height": 172.7,
+    "weight": 104.35,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce00eb6134d7a12be1aa434"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 43.0,
+    "height": 157.5,
+    "weight": 113.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce017538ff304131108c34d"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 49.0,
+    "height": 158.8,
+    "weight": 73.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce03d3a134d7a12be1abc25"
+    },
+    "gender": "M",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 67.0,
+    "height": 180.3,
+    "weight": 101.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce04304ddbef012a05e749c"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 39.0,
+    "height": 163.0,
+    "weight": 86.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce046fe134d7a12be1ac224"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 33.0,
+    "height": 158.8,
+    "weight": 84.368,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce050278ff304131108e204"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 24.0,
+    "height": 153.0,
+    "weight": 62.596,
+    "churnedAfterSix": "NA"
+  },
+  {
+    "_id": {
+      "$oid": "5ce05222134d7a12be1ac757"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "other",
+    "age": 41.0,
+    "height": 172.0,
+    "weight": 59.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce0555f8ff304131108e3e9"
+    },
+    "gender": "F",
+    "motivation": "looks",
+    "trigger": "stress",
+    "age": 42.0,
+    "height": 149.9,
+    "weight": 125.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce05c49ddbef012a05e8091"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 28.0,
+    "height": 153.0,
+    "weight": 86.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce068f58ff304131108ed8d"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 65.0,
+    "height": 180.3,
+    "weight": 66.678,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce07291ddbef012a05e8c99"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 43.0,
+    "height": 170.2,
+    "weight": 137.892,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce084ff134d7a12be1ae2e9"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 33.0,
+    "height": 175.3,
+    "weight": 80.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce0e166134d7a12be1aec62"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "emotions",
+    "age": 46.0,
+    "height": 170.2,
+    "weight": 85.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce0f463ddbef012a05ea18c"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 69.0,
+    "height": 170.0,
+    "weight": 86.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce1008c8ff30413110910f0"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 26.0,
+    "height": 174.0,
+    "weight": 88.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce10dd8134d7a12be1b030f"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 53.0,
+    "height": 152.4,
+    "weight": 103.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce1108eddbef012a05eb750"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 36.0,
+    "height": 152.4,
+    "weight": 109.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce11178134d7a12be1b0772"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 72.0,
+    "height": 198.1,
+    "weight": 103.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce117a0134d7a12be1b0cc6"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 51.0,
+    "height": 162.0,
+    "weight": 92.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce118168ff304131109258e"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 52.0,
+    "height": 172.70000000000002,
+    "weight": 87.543,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce125948ff3041311092ecf"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "information",
+    "trigger": "social",
+    "age": 63.0,
+    "height": 163.0,
+    "weight": 85.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce125e2134d7a12be1b1855"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 38.0,
+    "height": 175.3,
+    "weight": 89.358,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce12976134d7a12be1b1afe"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 58.0,
+    "height": 162.0,
+    "weight": 85.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce12f40134d7a12be1b1e67"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 34.0,
+    "height": 176.0,
+    "weight": 97.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce1382f134d7a12be1b233d"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 36.0,
+    "height": 158.8,
+    "weight": 73.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce138a3134d7a12be1b23aa"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 25.0,
+    "height": 155.0,
+    "weight": 80.7,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce139d4134d7a12be1b24b9"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 53.0,
+    "height": 155.0,
+    "weight": 93.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce13f93ddbef012a05ed52a"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 57.0,
+    "height": 160.0,
+    "weight": 143.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce14fcd134d7a12be1b3096"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "other",
+    "trigger": "social",
+    "age": 43.0,
+    "height": 185.4,
+    "weight": 76.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce1550addbef012a05ee1c7"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 50.0,
+    "height": 176.0,
+    "weight": 88.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce155648ff3041311094798"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "other",
+    "age": 47.0,
+    "height": 188.0,
+    "weight": 95.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce156628ff304131109483c"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 60.0,
+    "height": 157.5,
+    "weight": 104.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce1650bddbef012a05ee994"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 69.0,
+    "height": 177.8,
+    "weight": 101.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce1737b8ff30413110959a1"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 60.0,
+    "height": 173.0,
+    "weight": 116.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce17a2d134d7a12be1b457d"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 31.0,
+    "height": 171.0,
+    "weight": 77.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce18f9d8ff3041311096aaf"
+    },
+    "gender": "F",
+    "motivation": "fitness",
+    "trigger": "emotions",
+    "age": 73.0,
+    "height": 152.4,
+    "weight": 86.2,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ce19814ddbef012a05f0662"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 73.0,
+    "height": 157.5,
+    "weight": 102.5,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ce19e74ddbef012a05f0b27"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 55.0,
+    "height": 171.5,
+    "weight": 97.1,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce1bd128ff3041311098b89"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 44.0,
+    "height": 152.0,
+    "weight": 62.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce1c5958ff304131109913d"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 41.0,
+    "height": 149.9,
+    "weight": 78.925,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce212ac8ff3041311099fbb"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 28.0,
+    "height": 159.0,
+    "weight": 123.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce24a2a8ff304131109b6a4"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 63.0,
+    "height": 172.7,
+    "weight": 83.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce25851134d7a12be1bb2ef"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 59.0,
+    "height": 185.4,
+    "weight": 83.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce25952ddbef012a05f5ccf"
+    },
+    "gender": "F",
+    "motivation": "control",
+    "trigger": "other",
+    "age": 37.0,
+    "height": 159.0,
+    "weight": 103.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce261ae134d7a12be1bbebe"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 63.0,
+    "height": 171.0,
+    "weight": 100.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce2666ebe0ed4129d76fcf1"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 63.0,
+    "height": 172.70000000000002,
+    "weight": 90.7,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ce28744c912d212a3f29f0e"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "health",
+    "challenge": "food",
+    "trigger": "stress",
+    "age": 73.0,
+    "height": 152.0,
+    "weight": 122.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce294fa45dac11329f11976"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 32.0,
+    "height": 163.8,
+    "weight": 90.719,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce29652b6712e129ff2f73b"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 26.0,
+    "height": 152.0,
+    "weight": 84.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce2a803b6712e129ff30627"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "information",
+    "trigger": "stress",
+    "age": 50.0,
+    "height": 170.2,
+    "weight": 125.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce2b5cba94cc112a357aa54"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 24.0,
+    "height": 170.2,
+    "weight": 88.904,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce2b9f72c2e691302b5ce15"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "routine",
+    "age": 59.0,
+    "height": 173.0,
+    "weight": 92.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce30f984d729312a552b9c6"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "routine",
+    "age": 25.0,
+    "height": 171.5,
+    "weight": 181.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce30fb3dfdc5312ae00846e"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "emotions",
+    "age": 24.0,
+    "height": 149.9,
+    "weight": 78.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce325a64d729312a552ccea"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "routine",
+    "age": 64.0,
+    "height": 162.0,
+    "weight": 103.4,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ce398275428f61322b842af"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 72.0,
+    "height": 155.0,
+    "weight": 95.255,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce3a8f84d729312a552f96e"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 66.0,
+    "height": 175.3,
+    "weight": 83.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce3b6545428f61322b86109"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 31.0,
+    "height": 160.0,
+    "weight": 104.35,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce3be2cdfdc5312ae00d603"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 57.0,
+    "height": 180.0,
+    "weight": 120.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce3d3705428f61322b87393"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 42.0,
+    "height": 180.0,
+    "weight": 76.204,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce3d4644d729312a5531686"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "tired",
+    "age": 46.0,
+    "height": 182.9,
+    "weight": 103.419,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce3e472e3255612b7faa6e6"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 55.0,
+    "height": 188.0,
+    "weight": 68.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce3e698c4e5d412c1abe2b8"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 71.0,
+    "height": 170.2,
+    "weight": 84.368,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce3e959e3255612b7faa921"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 64.0,
+    "height": 170.2,
+    "weight": 74.4,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce41cce6122af131b40fbe2"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "food",
+    "trigger": "tired",
+    "age": 35.0,
+    "height": 162.6,
+    "weight": 109.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce44b555716df12b1505db2"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "social",
+    "age": 50.0,
+    "height": 198.1,
+    "weight": 87.5,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce44c3c6122af131b412114"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 46.0,
+    "height": 172.70000000000002,
+    "weight": 103.0,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ce4551e5716df12b150670b"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 45.0,
+    "height": 171.5,
+    "weight": 120.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce4e8c6d9094812a98fd319"
+    },
+    "gender": "M",
+    "goalsAspiration": "medium",
+    "motivation": "fitness",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 32.0,
+    "height": 152.0,
+    "weight": 89.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce4ee64f354e112a3ca3cdc"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "control",
+    "challenge": "food",
+    "trigger": "social",
+    "age": 26.0,
+    "height": 152.0,
+    "weight": 61.2,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce50479b2eafa130c06b8c9"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "time",
+    "trigger": "emotions",
+    "age": 54.0,
+    "height": 188.0,
+    "weight": 153.3,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce521fdb2eafa130c06c9d6"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "health",
+    "challenge": "time",
+    "trigger": "stress",
+    "age": 67.0,
+    "height": 152.4,
+    "weight": 121.6,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce574e7fcce6d12a38bbd11"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 56.0,
+    "height": 162.0,
+    "weight": 59.9,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce5b000bae11712bffe4504"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 72.0,
+    "height": 172.70000000000002,
+    "weight": 79.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce5bea0bae11712bffe5271"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "time",
+    "trigger": "tired",
+    "age": 54.0,
+    "height": 198.1,
+    "weight": 123.8,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce5bf40bae11712bffe5309"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "control",
+    "challenge": "motivation",
+    "trigger": "stress",
+    "age": 71.0,
+    "height": 185.4,
+    "weight": 90.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce5ca14bae11712bffe5a2e"
+    },
+    "gender": "F",
+    "goalsAspiration": "medium",
+    "motivation": "looks",
+    "challenge": "motivation",
+    "trigger": "social",
+    "age": 35.0,
+    "height": 154.9,
+    "weight": 82.0,
+    "churnedAfterSix": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce63eba34954e1321746c66"
+    },
+    "gender": "F",
+    "goalsAspiration": "high",
+    "motivation": "looks",
+    "challenge": "information",
+    "trigger": "stress",
+    "age": 43.0,
+    "height": 162.0,
+    "weight": 115.7,
+    "churnedAfterSix": true
+  },
+  {
+    "_id": {
+      "$oid": "5ce6663e7de10312a89e572b"
+    },
+    "gender": "F",
+    "goalsAspiration": "low",
+    "motivation": "control",
+    "challenge": "information",
+    "trigger": "tired",
+    "age": 42.0,
+    "height": 156.2,
+    "weight": 129.3,
+    "churnedAfterSix": false
+  }
+]
