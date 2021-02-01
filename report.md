@@ -20,17 +20,14 @@ The relative *engagement* of our users in the programme can be interpreted by lo
 
 Interestingly, users who churn after the six week mark show, on average, lower engagement in two specific activities: the number of articles they read, and the number of times they weigh-in. This difference is noticeable even at the earliest time point (week 0), prior to the user's official start date. 
 
-<img src="./figs/article.svg" align="left" width="50%"/><img src="./figs/weight.svg" align="right" width="50%"/>
+<img src="./figs/article.svg" align="left" width="50%"/>
 
-
-
-
+<img src="./figs/weight.svg" align="left" width="50%"/>
 
 It would be reasonable to assume that a user's engagement in the programme might be linked to their motivation for joining. However, comparing the answers given to the 'motivation' question on sign up, there was no difference over which options were chosen between users who churned and those who did not. For example, from the chart below, the percentage of people who listed their main motivation as 'losing weight to look better' ('looks' category) is indiscernible between users who churned (red), and those who did not (black). 
 
-<img src="./figs/motivation.svg" align="left" width="48%"/><img src="./img/motivation.png" align="right" width="52%"/>
+<img src="./figs/motivation.svg" align="left" width="50%"/>
 
-  
 
 In order to understand why engagement is lower among churners, it would be useful to investigate why churners are reading fewer articles the users who complete the programme. It could be the case that they aren't getting as much exposure to the material as other users, contributing to a loss motivation/interest in the programme. As such it, it would be worth knowing how users prefer to access articles (app, website, email), to try and boost user exposure to the material.
 
@@ -40,7 +37,9 @@ Similarly, it would be interesting to work out if the difference in weigh-ins co
 
 Another feature that distinguishes users who churn is their pattern of communication in private message with their mentor. Users who cancel the programme are more active in private messaging, sending more messages to their mentor per week, than users who complete. This is complemented by an increase in the number of questions sent to the mentor, by users who churn. These differences are most notable in the first and second weeks of the programme, but are also evident in weeks 5 and 6, shortly before the users churn. 
 
-<img src="./figs/messageCount_private.svg" align="left" width="50%"/><img src="./figs/questionsAsked_private.svg" align="right" width="50%"/>
+<img src="./figs/messageCount_private.svg" align="left" width="50%"/>
+
+<img src="./figs/questionsAsked_private.svg" align="left" width="50%"/>
 
 It would be useful to look at the content of these messages, to understand what has prompted the users to reach out to their mentors. It may be the case that users and flagging common issues/questions that contribute them to quitting the programme.
 
@@ -50,7 +49,9 @@ A valuable metric for understanding user *satisfaction* is so-called 'sentiment'
 
 Across all of the users analysed, sentiment is generally positive. While it would be reasonable to hypothesise that users who churn may display less positive sentiment in their messaging, this is seemingly *not the case*. Users that churn show comparable sentiment to members that complete the programme, for both group or private messages. In the final week, there is some evidence to suggest that sentiment drops among members who will churn, we would need more data on churned users to conclude this was significant. 
 
-<img src="./figs/sentiment_group.svg" align="left" width="50%"/><img src="./figs/sentiment_private.svg" align="right" width="50%"/>
+<img src="./figs/sentiment_group.svg" align="left" width="50%"/>
+
+<img src="./figs/sentiment_private.svg" align="left" width="50%"/>
 
 
 
