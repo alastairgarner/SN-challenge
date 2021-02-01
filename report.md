@@ -10,7 +10,7 @@ In order to reduce churn, it would be beneficial to identify factors that might 
 
 ## Data background
 
-The data used for these analyses cover the first six week of the core programme for 428 users - 390 of which completed the programme and 38 who left. This data encompasses the activity of users, with a focus on their messaging behaviour, but also any activities/events they've logged through the app. With these metrics, I've sought to identify any significant differences in behaviour between users who churn and those who do not.
+The data used for these analyses cover the first six week of the core programme for 428 users - 390 of which completed the programme and 38 who left. This data encompasses the activity of users, with a focus on their messaging behaviour, but also any activities/events they've logged through the app. With these metrics, I've sought to identify any differences in behaviour between users who churn and those who do not.
 
 
 
@@ -45,14 +45,14 @@ It would be useful to look at the content of these messages, to understand what 
 
 A valuable metric for understanding user *satisfaction* is so-called 'sentiment'. A sentiment score is automatically generated for every message a user sends, where messages with generally positive content gain a score greater than zero, while messages with negative sentiment score less than zero. A message with neutral sentiment will score 0. At Second Nature, understanding the sentiment across a user's messages can give us a general indication as to how they are feeling about the programme.
 
-Across all of the users analysed, sentiment is generally positive. While it would be reasonable to hypothesise that users who churn may display less positive sentiment in their messaging, this is seemingly *not the case*. Users that churn show comparable sentiment to members that complete the programme, for both group or private messages. In the final week, there is some evidence to suggest that sentiment drops among members who will churn, we would need more data on churned users to conclude this was significant. 
+Across all of the users analysed, sentiment is generally positive. While it would be reasonable to hypothesise that users who churn may display less positive sentiment in their messaging, this is seemingly *not the case*. Users that churn show comparable sentiment to members that complete the programme, for both group or private messages. In the final week, there is some evidence to suggest that sentiment drops among members who will churn, but we would need more data on churned users to conclude if this was significant. 
 
 ![](figs/sentiment_group.svg)
 ![](figs/sentiment_private.svg)
 
 
 
-This result suggests that users who quit the programme may not necessarily be unhappy with the product, or if they are, that they do not communicate this within our messaging service. One could imagine that, if a user was disgruntled with the service, that they'd opt to reduce the number of messages they send, rather than send messages with negative sentiment. However, this is no necessarily true of our users, as we've already seen that users who churn send as many (if not more) messages.
+This result suggests that users who quit the programme may not necessarily be unhappy with the product, or if they are, that they do not communicate this within our messaging service. One could imagine that, if a user was disgruntled with the service, that they'd opt to reduce the number of messages they send, rather than send messages with negative sentiment. However, this is not necessarily true of our users, as we've already seen that users who churn send as many (if not more) messages.
 
 ## Summary
 
